@@ -14,7 +14,8 @@ This project focuses on predicting customer churn for a telecommunications compa
 5.  **Evaluation:** Analyzed results via Confusion Matrix and Classification Report.
 
 ## 📈 Key Visualizations
-![EDA].(EDA Churn.png)
+
+![EDA Churn].(EDA Churn.png).
 
 ## 💡 Strategic Recommendations
 * Target "Month-to-month" users for contract migration.
